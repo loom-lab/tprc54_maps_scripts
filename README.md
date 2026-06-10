@@ -1,2 +1,10 @@
-# tprc54_maps_scripts
-These are the data analysis scripts and documentation for replicating data analysis used in the TPRC54 paper "Maps without Witnesses."
+# About 
+
+# Data Sources
+
+# To Use
+
+# Cite
+These scripts support findings for our publication in TPRC54:
+
+Morgan Vigil-Hayes and Sri Chandana. "Maps without Witnesses: " in the Proceedings of TPRC54.
